@@ -1,0 +1,332 @@
+{
+  "speakers": [
+    {
+      "id": "Chairman",
+      "characteristics": {
+        "gender": "likely male",
+        "speaking_style": "formal and authoritative",
+        "role": "interviewer/panel head"
+      },
+      "metrics": {
+        "speaking_time_percentage": 0.15,
+        "interruptions_made": 0,
+        "questions_asked": 4,
+        "filler_words_frequency": 0.0
+      },
+      "language": {
+        "vocabulary_level": "professional",
+        "technical_terms_used": [],
+        "communication_clarity": 0.95
+      }
+    },
+    {
+      "id": "Karthikeya Srivastava",
+      "characteristics": {
+        "gender": "likely male",
+        "speaking_style": "formal and respectful",
+        "role": "interviewee/candidate"
+      },
+      "metrics": {
+        "speaking_time_percentage": 0.65,
+        "interruptions_made": 0,
+        "questions_asked": 0,
+        "filler_words_frequency": 0.01
+      },
+      "language": {
+        "vocabulary_level": "professional",
+        "technical_terms_used": ["GST system", "Universal Basic Income", "QUAD alliance", "Section 144"],
+        "communication_clarity": 0.9
+      }
+    },
+    {
+      "id": "Member 1",
+      "characteristics": {
+        "gender": "likely male",
+        "speaking_style": "formal and analytical",
+        "role": "interviewer/academician"
+      },
+      "metrics": {
+        "speaking_time_percentage": 0.05,
+        "interruptions_made": 0,
+        "questions_asked": 2,
+        "filler_words_frequency": 0.0
+      },
+      "language": {
+        "vocabulary_level": "academic",
+        "technical_terms_used": [],
+        "communication_clarity": 0.9
+      }
+    },
+    {
+      "id": "Member 2",
+      "characteristics": {
+        "gender": "likely male",
+        "speaking_style": "technical and probing",
+        "role": "interviewer/economics expert"
+      },
+      "metrics": {
+        "speaking_time_percentage": 0.05,
+        "interruptions_made": 0,
+        "questions_asked": 2,
+        "filler_words_frequency": 0.0
+      },
+      "language": {
+        "vocabulary_level": "technical",
+        "technical_terms_used": ["GST system", "Universal Basic Income", "structural reforms"],
+        "communication_clarity": 0.9
+      }
+    },
+    {
+      "id": "Member 3",
+      "characteristics": {
+        "gender": "likely male",
+        "speaking_style": "scenario-based and testing",
+        "role": "interviewer/behavioral expert"
+      },
+      "metrics": {
+        "speaking_time_percentage": 0.05,
+        "interruptions_made": 0,
+        "questions_asked": 2,
+        "filler_words_frequency": 0.0
+      },
+      "language": {
+        "vocabulary_level": "professional",
+        "technical_terms_used": ["District Magistrate", "Section 144"],
+        "communication_clarity": 0.9
+      }
+    },
+    {
+      "id": "Member 4",
+      "characteristics": {
+        "gender": "likely male",
+        "speaking_style": "geopolitical and analytical",
+        "role": "interviewer/defense expert"
+      },
+      "metrics": {
+        "speaking_time_percentage": 0.05,
+        "interruptions_made": 0,
+        "questions_asked": 2,
+        "filler_words_frequency": 0.0
+      },
+      "language": {
+        "vocabulary_level": "technical",
+        "technical_terms_used": ["Russia-Ukraine conflict", "QUAD alliance", "strategic autonomy", "Indo-Pacific"],
+        "communication_clarity": 0.9
+      }
+    }
+  ],
+  "conversation_dynamics": {
+    "turn_taking": {
+      "balanced": true,
+      "dominant_speaker": "Karthikeya Srivastava",
+      "interruption_patterns": "minimal"
+    },
+    "engagement_level": {
+      "score": 0.95,
+      "indicators": [
+        "consistent respectful responses",
+        "appropriate addressing (using 'sir/ma'am')",
+        "detailed answers to complex questions",
+        "structured responses to hypothetical scenarios",
+        "confidence in handling diverse topics"
+      ]
+    }
+  },
+  "content_analysis": {
+    "main_topics": [
+      {
+        "topic": "Personal Background and Motivation",
+        "time_spent": "15%",
+        "depth": "intermediate"
+      },
+      {
+        "topic": "Academic Qualifications and Relevance",
+        "time_spent": "15%",
+        "depth": "intermediate"
+      },
+      {
+        "topic": "Economic Policies (GST and UBI)",
+        "time_spent": "20%",
+        "depth": "technical"
+      },
+      {
+        "topic": "Administrative Decision Making and Ethics",
+        "time_spent": "25%",
+        "depth": "technical"
+      },
+      {
+        "topic": "International Relations and Defense",
+        "time_spent": "20%",
+        "depth": "technical"
+      },
+      {
+        "topic": "Closing and Final Impressions",
+        "time_spent": "5%",
+        "depth": "surface"
+      }
+    ],
+    "key_insights": [
+      {
+        "insight": "Candidate demonstrates structured problem-solving approach for crisis management",
+        "speaker": "Karthikeya Srivastava",
+        "impact": "high"
+      },
+      {
+        "insight": "Balanced perspective on economic policies showing awareness of both benefits and limitations",
+        "speaker": "Karthikeya Srivastava",
+        "impact": "high"
+      },
+      {
+        "insight": "Strong ethical stance when faced with hypothetical corruption scenario",
+        "speaker": "Karthikeya Srivastava",
+        "impact": "high"
+      },
+      {
+        "insight": "Nuanced understanding of India's diplomatic position in international conflicts",
+        "speaker": "Karthikeya Srivastava",
+        "impact": "high"
+      },
+      {
+        "insight": "Clear vision about public service and grassroots impact",
+        "speaker": "Karthikeya Srivastava",
+        "impact": "medium"
+      }
+    ],
+    "question_quality": {
+      "score": 0.9,
+      "types": {
+        "open_ended": 6,
+        "follow_up": 4,
+        "clarifying": 2,
+        "scenario_based": 2
+      }
+    }
+  },
+  "sentiment": {
+    "overall": {
+      "score": 0.6,
+      "magnitude": 0.7
+    },
+    "by_speaker": {
+      "Chairman": {
+        "score": 0.7,
+        "magnitude": 0.5,
+        "emotions": {
+          "encouragement": 0.8,
+          "interest": 0.7,
+          "satisfaction": 0.7,
+          "authority": 0.5
+        }
+      },
+      "Karthikeya Srivastava": {
+        "score": 0.5,
+        "magnitude": 0.8,
+        "emotions": {
+          "nervousness": 0.3,
+          "confidence": 0.7,
+          "respect": 0.9,
+          "earnestness": 0.8,
+          "thoughtfulness": 0.8
+        }
+      },
+      "Panel Members": {
+        "score": 0.6,
+        "magnitude": 0.6,
+        "emotions": {
+          "scrutiny": 0.7,
+          "evaluation": 0.8,
+          "professionalism": 0.9,
+          "neutrality": 0.7
+        }
+      }
+    }
+  },
+  "expertise_indicators": {
+    "domain_knowledge": {
+      "score": 0.85,
+      "areas": [
+        "public administration",
+        "governance",
+        "economic policy",
+        "crisis management",
+        "international relations"
+      ],
+      "evidence": [
+        "detailed understanding of GST implementation challenges",
+        "practical approach to handling violent protests",
+        "balanced perspective on Universal Basic Income",
+        "nuanced view on international alliances and conflicts",
+        "ethical reasoning in handling political pressure"
+      ]
+    },
+    "credibility_markers": [
+      "acknowledges limitations (UBI implementation challenges)",
+      "presents balanced perspectives (GST benefits and drawbacks)",
+      "structured approach to problem-solving (protest management)",
+      "clear ethical boundaries (response to political pressure)",
+      "articulates strategic considerations (QUAD alliance)"
+    ]
+  },
+  "recommendations": {
+    "areas_for_improvement": [
+      {
+        "aspect": "providing concrete examples",
+        "suggestion": "Instead of using placeholder references [specific subject knowledge], the candidate should prepare specific examples from academic or personal experience to strengthen answers"
+      },
+      {
+        "aspect": "technical depth on economic topics",
+        "suggestion": "Further preparation on economic concepts with statistical support could enhance responses to questions on GST and UBI"
+      },
+      {
+        "aspect": "balancing theoretical and practical knowledge",
+        "suggestion": "While theoretical knowledge is good, incorporating more practical, real-world examples would strengthen responses"
+      }
+    ],
+    "notable_strengths": [
+      {
+        "aspect": "ethical reasoning",
+        "detail": "Demonstrated strong ethical framework for handling pressure situations with clear principles"
+      },
+      {
+        "aspect": "structured crisis management approach",
+        "detail": "Provided a comprehensive and well-ordered approach to handling civil unrest with appropriate balancing of security and citizen concerns"
+      },
+      {
+        "aspect": "balanced policy perspective",
+        "detail": "Showed ability to see both advantages and limitations of major policies like GST and UBI rather than one-sided views"
+      },
+      {
+        "aspect": "diplomatic nuance",
+        "detail": "Exhibited sophisticated understanding of India's strategic interests and diplomatic balancing in international relations"
+      }
+    ]
+  },
+  "summary": {
+    "brief": "A well-structured civil service interview demonstrating the candidate's balanced perspectives on governance, ethics, economic policy, and international relations.",
+    "detailed": "This civil service interview panel assessment covered diverse areas relevant to administrative roles. The candidate demonstrated strong ethical reasoning, structured crisis management skills, balanced policy perspectives, and diplomatic understanding. The interview maintained a formal, respectful tone with well-articulated questions from domain experts and thoughtful responses from the candidate. Areas for improvement include providing more concrete examples, deeper technical economic knowledge, and balancing theoretical with practical applications.",
+    "key_takeaways": [
+      "Candidate shows strong ethical framework suitable for administrative roles",
+      "Demonstrates balanced perspective on complex policy issues",
+      "Exhibits clear crisis management approach with appropriate priorities",
+      "Shows sophisticated understanding of international relations nuances",
+      "Could benefit from more concrete examples and real-world applications"
+    ]
+  },
+  "interview_effectiveness": {
+    "structure_quality": 0.9,
+    "topic_coverage": 0.85,
+    "question_progression": "logical and increasingly challenging",
+    "panel_diversity": "excellent subject matter coverage across domains",
+    "overall_assessment": "A highly effective panel interview that systematically evaluated the candidate's suitability for civil services across multiple domains relevant to administrative roles"
+  },
+  "candidate_performance": {
+    "communication_skills": 0.88,
+    "subject_knowledge": 0.85,
+    "problem_solving": 0.87,
+    "adaptability": 0.85,
+    "ethical_reasoning": 0.9,
+    "overall_score": 0.87,
+    "strengths_summary": "Strong ethical compass, structured thinking, balanced perspectives, and diplomatic awareness",
+    "areas_for_development": "More specific examples, deeper technical knowledge in economics, and practical applications"
+  }
+} 
